@@ -1,6 +1,11 @@
-# SPDM as a whole - Tamarin Models
+# A Formal Analysis of SPDM 1.2 - Tamarin Models
 
-Anonymized
+This repository contains all case studies from
+
+```
+Breaking and Provably Restoring Authentication: A Formal Analysis of SPDM 1.2 including Cross-Protocol Attacks
+```
+and the means to reproduce them.
 
 ## Tamarin
 
@@ -60,4 +65,6 @@ In case you face any timeouts within the results, you can increase the `TIMEOUT`
 
 ## Contributers
 
-Anonymized
+Cas Cremers, Alexander Dax, and Aurora Naska
+
+CISPA Helmholtz Center for Information Security (2025)

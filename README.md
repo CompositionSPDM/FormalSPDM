@@ -59,6 +59,10 @@ sh case_studies.sh
 
 Compare the results in the `results` folder with the precomputed results in `baseline`.
 
+The expected result of `spdm_mode_switch_attack.spthy` is `True` for both target lemmas as
+those lemmas check for the reported attack specifically.
+In `spdm_composition_fix.spthy` these lemmas should be `False`.
+
 ### Troubleshooting
 
 In case you face any timeouts within the results, you can increase the `TIMEOUT` value in the `case_studies.sh` and run it again.
